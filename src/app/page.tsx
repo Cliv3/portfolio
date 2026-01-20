@@ -350,7 +350,7 @@ const SafariWindow = () => {
             <Lock className="w-3 h-3 text-neutral-500 absolute left-3 group-hover:text-zinc-500 transition-colors group-hover:animate-bounce-subtle" />
             <div className="text-xs text-neutral-400 font-medium group-hover:text-white flex items-center gap-1 transition-colors">
               <span className="text-neutral-600">https://</span>
-              <span className="group-hover:text-gradient-animated">clivetsungu.dev</span>
+              <span className="group-hover:text-gradient-animated">clivetsungu.xyz</span>
             </div>
             <RotateCw className="w-3 h-3 text-neutral-500 absolute right-3 opacity-0 group-hover:opacity-100 transition-all transform group-hover:rotate-180 duration-500" />
           </div>
